@@ -1,4 +1,4 @@
-const Rightnav = () => {
+const Rightmenu = () => {
     return (
         <div className="rightmenu">
             <div className="part4">
@@ -30,4 +30,4 @@ const Rightnav = () => {
     );
 }
 
-export default Rightnav;
+export default Rightmenu;

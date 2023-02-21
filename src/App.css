@@ -56,10 +56,7 @@ span{
 .addfriend{
     grid-column: 2/3;
 }
-.App{
-    display: grid;
-    width: 100%;
-}
+
 .leftmenu{
     grid-column: 1/2;
 }

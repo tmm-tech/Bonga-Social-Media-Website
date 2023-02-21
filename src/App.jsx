@@ -1,6 +1,6 @@
 import './App.css';
-import Leftnav from './Components/Leftnav';
-import Rightnav from './Components/Rightnav';
+import Leftmenu from './Components/Leftmenu';
+import Rightmenu from './Components/Rightmenu';
 
 
 
@@ -8,10 +8,10 @@ function App() {
   return (
     <div className="App">
      
-      <Leftnav/>
+      <Leftmenu/>
      
      
-      <Rightnav/>
+      <Rightmenu/>
       
     </div>
   );
