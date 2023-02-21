@@ -60,9 +60,9 @@ span{
     display: grid;
     width: 100%;
 }
-.leftnav{
+.leftmenu{
     grid-column: 1/2;
 }
-.rightnav{
+.rightmenu{
     grid-column: 2/3;
 }
