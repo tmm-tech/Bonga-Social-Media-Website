@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -441,54 +440,63 @@ span {
     gap: 10px;
 }
 
-.folowerimage {
-=======
-*{
+* {
     box-sizing: border-box;
 }
-body{
+
+body {
     background-color: rgb(177, 177, 177);
 }
-.part1, .part2, .part3, .part4, .part5{
+
+.part1,
+.part2,
+.part3,
+.part4,
+.part5 {
     background-color: white;
     border: 1px gray solid;
     display: flex;
     flex-direction: column;
-    width:20%;
+    width: 20%;
     margin: 15px;
     padding: 15px;
 }
 
-.part1 a{
+.part1 a {
     color: grey;
     text-decoration: none;
     padding: 15px;
 }
-.part1 a:hover{
+
+.part1 a:hover {
     color: blue;
 }
 
-.part2 li{
+.part2 li {
     list-style: none;
     margin-bottom: 20px;
     border-left: 2px solid blue;
     padding: 5px;
 }
-i{
-    color: grey;  
+
+i {
+    color: grey;
 }
-span{
+
+span {
     color: blue;
 }
-.follower{
-    display: grid;  
+
+.follower {
+    display: grid;
 }
-.part3{
+
+.part3 {
     display: grid;
     gap: 10px;
 }
-.folowerimage{
->>>>>>> 7774867b3b82137544c3056ec3703eb2af55ae60
+
+.folowerimage {
     grid-column: 1/2;
     grid-row: 1/3;
     border-radius: 100%;
@@ -496,7 +504,6 @@ span{
     height: 80px;
     border: 2px solid grey;
 }
-<<<<<<< HEAD
 
 .followername {
     grid-column: 2/3;
@@ -1673,21 +1680,25 @@ li.post-comment .comet-avatar {
 .Display {
     display: grid;
     grid-template-columns: 2/3;
-=======
-.followername{
+}
+
+.followername {
     grid-column: 2/3;
 }
-.addfriend{
+
+.addfriend {
     grid-column: 2/3;
 }
-.App{
+
+.App {
     display: grid;
     width: 100%;
 }
-.leftnav{
+
+.leftnav {
     grid-column: 1/2;
 }
-.rightnav{
+
+.rightnav {
     grid-column: 2/3;
->>>>>>> 7774867b3b82137544c3056ec3703eb2af55ae60
 }
