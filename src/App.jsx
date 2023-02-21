@@ -2,23 +2,14 @@ import React from 'react';
 import './App.css';
 import NavBar from './Components/NavBar';
 import Footer from './Components/Footer';
-import Leftnav from './Components/Leftnav';
-import Rightnav from './Components/Rightnav';
-
-
+import HomePage from './Pages/HomePage';
 
 function App() {
   return (
     <div className="App">
       {/*NAVBAR*/}
       <NavBar/>
-
-     
-      <Leftnav/>
-     
-     
-      <Rightnav/>
-      
+      <HomePage/>
       {/*FOOTER*/}
       <Footer/>
     </div>
