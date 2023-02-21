@@ -1,6 +1,6 @@
 const Rightnav = () => {
     return (
-        <div className="rightnav">
+        <div className="rightmenu">
             <div className="part4">
                 <h3>YOUR PAGE</h3>
                 <div className="profiledetails">

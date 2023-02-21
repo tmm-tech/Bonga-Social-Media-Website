@@ -1,6 +1,6 @@
 const Leftnav = () => {
     return (
-        <div className="leftnav">
+        <div className="leftmenu">
             <div className="part1">
                 <h3>SHORTCUTS</h3>
                 <a href="http://">News Feed</a>

@@ -1694,11 +1694,18 @@ li.post-comment .comet-avatar {
     display: grid;
     width: 100%;
 }
+<<<<<<< HEAD
 
 .leftnav {
     grid-column: 1/2;
 }
 
 .rightnav {
+=======
+.leftmenu{
+    grid-column: 1/2;
+}
+.rightmenu{
+>>>>>>> c0e256f29e5d8d67d90f88e1aabbbfdce9de1571
     grid-column: 2/3;
 }
