@@ -29,7 +29,7 @@ const Footer = () => {
 
                         <ul >
                             <li>
-                            <a href="#facebook"><span className="facebook"><i className="fab fa-facebook-square" ></i></span> Facebook</a>
+                            <a href="https://www.facebook.com/"><span className="facebook"><i className="fab fa-facebook-square" ></i></span> Facebook</a>
                             </li>
                             <li>
                                 <a href="https://twitter.com"><span><i className="fab fa-twitter-square" ></i></span> Twitter</a>
