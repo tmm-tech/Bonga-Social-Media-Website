@@ -1,7 +1,7 @@
 
 import './App.css';
-import Leftnav from './components/Leftnav';
-import Rightnav from './components/Rightnav';
+import Leftnav from './Components/Leftnav';
+import Rightnav from './Components/Rightnav';
 
 
 
