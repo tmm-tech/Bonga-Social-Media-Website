@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import image8 from '../Assets/admin2.jpg';
 import post10 from '../Assets/post/10.jpeg'
